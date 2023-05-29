@@ -6,8 +6,8 @@
 <br/>
 
 - 🌱 I’m currently learning **whatever I can in this small life**
-- 📫 How to reach me **shaswatkumar447@gmail.com**
-- ⚡ Fun fact **I am a worse gamer than coder**
+- 📫 Reach me through **shaswatkumar447@gmail.com**
+- ⚡ Fun fact: **I am a worse gamer than coder**
 <br/>
 
      
