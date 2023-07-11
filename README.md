@@ -11,9 +11,9 @@
 <br/>
 
      
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shasss447&show_icons=true&locale=en&theme=radical" alt="shasss447" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shasss447&show_icons=true&locale=en&theme=radical" alt="shasss447" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shasss447&show_icons=true&locale=en&layout=compact&theme=radical" alt="shasss447" /></p>
+<p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=shasss447&show_icons=true&locale=en&layout=compact&theme=radical" alt="shasss447" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shasss447&theme=radical" alt="shasss447" /></p>
 
